@@ -7,9 +7,8 @@
 # from terminal exec ./sym.sh < crashlog.crash>
 # Everything else script will do automaticaly.
 # Tested on Sierra 10.12.6 (2018)
-#Args           : filename of crashlog
+#Args          : filename of crashlog
 #Author       	: Andrii Tishchenko
-#Email         	: andrii.tishchenko@gmail.com
 ###################################################################
 
 clear
